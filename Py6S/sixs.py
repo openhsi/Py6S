@@ -27,7 +27,7 @@ import tempfile
 import math
 
 
-SIXSVERSION = '1.1'
+SIXSVERSION = '2.1'
 
 # Fix for Python 3 where basestring is not available
 if sys.version_info[0] >= 3:
